@@ -45,55 +45,10 @@ Additionally, the system must:
 
 ### Architecture Diagram
 
-User
- │
- │  (Upload eyewear image + optional text / filters)
- ▼
-Streamlit UI
- │
- │  HTTP request 
- ▼
-FastAPI Backend
- │
- ├── Image Storage
- │     └─ Save uploaded image in structured folder
- │
- ├── Smart Crop Module
- │     └─ Crop face / eyewear region if detected
- │
- ├── Feature Extraction
- │     ├─ ViT Embedding Model (style features)
- │     ├─ Color Histogram Extractor (color features)
- │     └─ ViT Shape Classifier (frame shape)
- │
- ├── Vector Search
- │     └─ FAISS Index (style similarity search)
- │
- ├── Metadata Store
- │     └─ SQLite Database (brand, price, material, shape)
- │
- ├── Ranking Engine
- │     ├─ Style similarity score
- │     ├─ Color similarity score
- │     ├─ Shape match priority
- │     ├─ Text intent boost (optional)
- │     └─ User feedback boost
- │
- ▼
-Ranked Results
- │
- │  JSON response
- ▼
-Streamlit UI
- │
- │  Display images + metadata
- ▼
-User Feedback
- │
- ▼
-Feedback Store
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/80abaa56-eed9-4c59-b127-3419f5824c3a" />
+<img width="435" height="788" alt="image" src="https://github.com/user-attachments/assets/61076ae7-a331-41aa-831a-3c527c0ee5e5" />
+
+
 
 
 
