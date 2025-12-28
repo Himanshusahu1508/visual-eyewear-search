@@ -187,6 +187,9 @@ The backend is implemented using FastAPI.
 
 Swagger UI is available for interactive testing.
 
+<img width="1825" height="901" alt="image" src="https://github.com/user-attachments/assets/d0a38ea2-9583-4274-af25-d044485ed8f8" />
+
+
 ---
 
 ## User Interface
