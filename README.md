@@ -164,6 +164,8 @@ Swagger UI is available for interactive testing.
 ---
 
 ## User Interface
+<img width="1910" height="1079" alt="image" src="https://github.com/user-attachments/assets/5066b46e-c926-43a1-b638-101b0c64a7df" />
+
 
 The Streamlit UI provides:
 
