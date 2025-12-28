@@ -223,8 +223,8 @@ pip install -r requirements.txt
 
 ### Build embeddings and FAISS index
 
-python -m pipelines.build_embeddings
-python -m pipelines.build_faiss_index
+-python -m pipelines.build_embeddings
+-python -m pipelines.build_faiss_index
 
 
 ### Train shape classifier
