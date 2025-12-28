@@ -107,6 +107,8 @@ Shape similarity is treated as a high-priority signal to ensure geometrically co
 
 - Manually curated metadata CSV file
 - Image dataset organized by shape categories
+- GLIMPSE OF DATASET CURATED<img width="809" height="659" alt="image" src="https://github.com/user-attachments/assets/a30609b4-3bda-41c6-9236-40bb387963c7" />
+
 
 ---
 
