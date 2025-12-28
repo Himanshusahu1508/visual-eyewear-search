@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Model artifacts
+artifacts/*.npy
+artifacts/*.pth
+artifacts/*.index
+artifacts/*.json
+
+# Uploaded images
+uploads/
+data/user_uploads/
+data/tmp_crops/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
