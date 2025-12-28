@@ -178,20 +178,9 @@ The UI communicates only through the API layer.
 
 ## Project Structure
 
-visual-eyewear-search/
-│
-├── api/ FastAPI backend
-├── artifacts/ Trained models and generated files
-├── data/ Dataset, metadata, SQLite database
-├── feedback/ Feedback handling logic
-├── models/ ViT embedding and shape models
-├── pipelines/ Training and preprocessing scripts
-├── search/ Core search and ranking logic
-├── ui/ Streamlit application
-├── uploads/ Stored user uploads
-├── utils/ Utility modules
-├── README.md
-└── requirements.txt
+
+<img width="466" height="372" alt="image" src="https://github.com/user-attachments/assets/f50b57c5-6e62-495e-ba92-a50da4cfae12" />
+
 
 
 ---
