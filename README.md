@@ -189,6 +189,9 @@ Swagger UI is available for interactive testing.
 
 <img width="1825" height="901" alt="image" src="https://github.com/user-attachments/assets/d0a38ea2-9583-4274-af25-d044485ed8f8" />
 
+<img width="334" height="537" alt="image" src="https://github.com/user-attachments/assets/1951c897-7692-4f6a-9c8a-adfd7647abd1" />
+
+
 
 ---
 
