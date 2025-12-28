@@ -1,0 +1,31 @@
+# Core ML / DL
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.23.0
+
+# Vision Transformer and image handling
+Pillow>=9.5.0
+opencv-python>=4.8.0
+
+# Similarity search
+faiss-cpu>=1.7.4
+
+# Data handling
+pandas>=1.5.0
+scikit-learn>=1.3.0
+tqdm>=4.66.0
+
+# Backend API
+fastapi>=0.104.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+
+# Frontend UI
+streamlit>=1.28.0
+requests>=2.31.0
+
+# Face detection for smart crop
+mediapipe>=0.10.5
+
+# Database
+sqlite-utils>=3.35
